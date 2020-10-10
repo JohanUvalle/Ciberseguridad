@@ -1,0 +1,16 @@
+#!/bin/bash
+
+echo "Ingrese IP Inicial: "
+read ipinicial 
+echo "Ingrese IP Final: "
+read ipfinal  
+echo "Analizando IPs disponibles..."
+fping -a -g $ipinicial $ipfinal 2>/dev/null >iplist.txt
+
+while read line; do
+        echo "Analizando puertos en ip: $line"
+        sudo nmap -sS $line
+
+done < iplist.txt
+rm iplist.txt
+
