@@ -1,0 +1,13 @@
+Clear-Host
+$strContra ="Tacostado"
+$strError = "Adivina de nuevo"
+Do {
+$Guess = Read-Host "`n Adivina la palabra! PISTA: ¿Como se le llama a un taco que esta durmiendo?"
+if($Guess -eq $StrContra)
+{" Acertaste!"; $strError ="n"}
+else{
+$strError = Read-Host " Incorrecto `n Quieres intentar de nuevo? (Si/No)"
+}
+} #TerminarScript
+While ($strError -ne "No")
+"Nos vemos!"
