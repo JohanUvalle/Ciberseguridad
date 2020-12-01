@@ -1,0 +1,465 @@
+
+    api.mixpanel.com
+    ----------------------------------------
+    Nombre de registro  . : api.mixpanel.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 427
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 130.211.34.183
+
+
+    Nombre de registro  . : api.mixpanel.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 427
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 35.190.25.25
+
+
+    Nombre de registro  . : api.mixpanel.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 427
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 107.178.240.159
+
+
+    Nombre de registro  . : api.mixpanel.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 427
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 35.186.241.51
+
+
+    clients3.google.com
+    ----------------------------------------
+    Nombre de registro  . : clients3.google.com
+    Tipo de registro  . . : 5
+    Período de vida . . . : 65
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : clients.l.google.com
+
+
+    Nombre de registro  . : clients.l.google.com
+    Tipo de registro  . . : 28
+    Período de vida . . . : 65
+    Longitud de datos . . : 16
+    Sección . . . . . . . : respuesta
+    Registro AAAA . . . . : 2607:f8b0:4012:800::200e
+
+
+    clients3.google.com
+    ----------------------------------------
+    Nombre de registro  . : clients3.google.com
+    Tipo de registro  . . : 5
+    Período de vida . . . : 191
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : clients.l.google.com
+
+
+    Nombre de registro  . : clients.l.google.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 191
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 216.58.217.14
+
+
+    r6---sn-0opoxu-huted.gvt1.com
+    ----------------------------------------
+    Nombre de registro  . : r6---sn-0opoxu-huted.gvt1.com
+    Tipo de registro  . . : 5
+    Período de vida . . . : 344
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : r6.sn-0opoxu-huted.gvt1.com
+
+
+    Nombre de registro  . : r6.sn-0opoxu-huted.gvt1.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 344
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 189.247.147.209
+
+
+    teams.microsoft.com
+    ----------------------------------------
+    Nombre de registro  . : teams.microsoft.com
+    Tipo de registro  . . : 5
+    Período de vida . . . : 120
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : teams.office.com
+
+
+    Nombre de registro  . : teams.office.com
+    Tipo de registro  . . : 5
+    Período de vida . . . : 120
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : teams-office-com.s-0005.s-msedge.net
+
+
+    Nombre de registro  . : teams-office-com.s-0005.s-msedge.net
+    Tipo de registro  . . : 5
+    Período de vida . . . : 120
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : s-0005.dc-msedge.net
+
+
+    Nombre de registro  . : s-0005.dc-msedge.net
+    Tipo de registro  . . : 1
+    Período de vida . . . : 120
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 52.113.195.132
+
+
+    ctldl.windowsupdate.com
+    ----------------------------------------
+    Nombre de registro  . : ctldl.windowsupdate.com
+    Tipo de registro  . . : 5
+    Período de vida . . . : 463
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : au-bg-shim.trafficmanager.net
+
+
+    Nombre de registro  . : au-bg-shim.trafficmanager.net
+    Tipo de registro  . . : 5
+    Período de vida . . . : 463
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : audownload.windowsupdate.nsatc.net
+
+
+    Nombre de registro  . : audownload.windowsupdate.nsatc.net
+    Tipo de registro  . . : 5
+    Período de vida . . . : 463
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : auto.au.download.windowsupdate.com.c.footprint.net
+
+
+    Nombre de registro  . : auto.au.download.windowsupdate.com.c.footprint.net
+    Tipo de registro  . . : 1
+    Período de vida . . . : 463
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 8.252.176.254
+
+
+    Nombre de registro  . : auto.au.download.windowsupdate.com.c.footprint.net
+    Tipo de registro  . . : 1
+    Período de vida . . . : 463
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 8.252.98.126
+
+
+    Nombre de registro  . : auto.au.download.windowsupdate.com.c.footprint.net
+    Tipo de registro  . . : 1
+    Período de vida . . . : 463
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 8.240.171.126
+
+
+    Nombre de registro  . : auto.au.download.windowsupdate.com.c.footprint.net
+    Tipo de registro  . . : 1
+    Período de vida . . . : 463
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 8.252.108.254
+
+
+    Nombre de registro  . : auto.au.download.windowsupdate.com.c.footprint.net
+    Tipo de registro  . . : 1
+    Período de vida . . . : 463
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 8.252.15.254
+
+
+    cs.dds.microsoft.com
+    ----------------------------------------
+    Nombre de registro  . : cs.dds.microsoft.com
+    Tipo de registro  . . : 5
+    Período de vida . . . : 170
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : cs-geo-dds.trafficmanager.net
+
+
+    Nombre de registro  . : cs-geo-dds.trafficmanager.net
+    Tipo de registro  . . : 1
+    Período de vida . . . : 170
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 52.177.93.249
+
+
+    login.microsoftonline.com
+    ----------------------------------------
+    Nombre de registro  . : login.microsoftonline.com
+    Tipo de registro  . . : 5
+    Período de vida . . . : 21
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : a.privatelink.msidentity.com
+
+
+    Nombre de registro  . : a.privatelink.msidentity.com
+    Tipo de registro  . . : 5
+    Período de vida . . . : 21
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : prda.aadg.msidentity.com
+
+
+    Nombre de registro  . : prda.aadg.msidentity.com
+    Tipo de registro  . . : 5
+    Período de vida . . . : 21
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : www.tm.a.prd.aadg.akadns.net
+
+
+    Nombre de registro  . : www.tm.a.prd.aadg.akadns.net
+    Tipo de registro  . . : 1
+    Período de vida . . . : 21
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 40.126.3.99
+
+
+    Nombre de registro  . : www.tm.a.prd.aadg.akadns.net
+    Tipo de registro  . . : 1
+    Período de vida . . . : 21
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 20.190.131.98
+
+
+    Nombre de registro  . : www.tm.a.prd.aadg.akadns.net
+    Tipo de registro  . . : 1
+    Período de vida . . . : 21
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 40.126.3.34
+
+
+    Nombre de registro  . : www.tm.a.prd.aadg.akadns.net
+    Tipo de registro  . . : 1
+    Período de vida . . . : 21
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 20.190.131.97
+
+
+    Nombre de registro  . : www.tm.a.prd.aadg.akadns.net
+    Tipo de registro  . . : 1
+    Período de vida . . . : 21
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 40.126.3.33
+
+
+    Nombre de registro  . : www.tm.a.prd.aadg.akadns.net
+    Tipo de registro  . . : 1
+    Período de vida . . . : 21
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 40.126.3.32
+
+
+    Nombre de registro  . : www.tm.a.prd.aadg.akadns.net
+    Tipo de registro  . . : 1
+    Período de vida . . . : 21
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 40.126.3.35
+
+
+    Nombre de registro  . : www.tm.a.prd.aadg.akadns.net
+    Tipo de registro  . . : 1
+    Período de vida . . . : 21
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 20.190.131.96
+
+
+    r8---sn-0opoxu-hutez.gvt1.com
+    ----------------------------------------
+    Nombre de registro  . : r8---sn-0opoxu-hutez.gvt1.com
+    Tipo de registro  . . : 5
+    Período de vida . . . : 151
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : r8.sn-0opoxu-hutez.gvt1.com
+
+
+    Nombre de registro  . : r8.sn-0opoxu-hutez.gvt1.com
+    Tipo de registro  . . : 28
+    Período de vida . . . : 151
+    Longitud de datos . . : 16
+    Sección . . . . . . . : respuesta
+    Registro AAAA . . . . : 2806:1090:cfff:7::13
+
+
+    r8---sn-0opoxu-hutez.gvt1.com
+    ----------------------------------------
+    Nombre de registro  . : r8---sn-0opoxu-hutez.gvt1.com
+    Tipo de registro  . . : 5
+    Período de vida . . . : 71
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : r8.sn-0opoxu-hutez.gvt1.com
+
+
+    Nombre de registro  . : r8.sn-0opoxu-hutez.gvt1.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 71
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 189.247.147.147
+
+
+    arc.msn.com
+    ----------------------------------------
+    Nombre de registro  . : arc.msn.com
+    Tipo de registro  . . : 5
+    Período de vida . . . : 11
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : arc.msn.com.nsatc.net
+
+
+    Nombre de registro  . : arc.msn.com.nsatc.net
+    Tipo de registro  . . : 1
+    Período de vida . . . : 11
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 52.138.119.21
+
+
+    r3---sn-0opoxu-hutez.gvt1.com
+    ----------------------------------------
+    Nombre de registro  . : r3---sn-0opoxu-hutez.gvt1.com
+    Tipo de registro  . . : 5
+    Período de vida . . . : 314
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : r3.sn-0opoxu-hutez.gvt1.com
+
+
+    Nombre de registro  . : r3.sn-0opoxu-hutez.gvt1.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 314
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 189.247.147.142
+
+
+    windows.kite.com
+    ----------------------------------------
+    Nombre de registro  . : windows.kite.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 189
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 34.107.220.2
+
+
+    r4---sn-9gv7lnez.gvt1.com
+    ----------------------------------------
+    Nombre de registro  . : r4---sn-9gv7lnez.gvt1.com
+    Tipo de registro  . . : 5
+    Período de vida . . . : 387
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : r4.sn-9gv7lnez.gvt1.com
+
+
+    Nombre de registro  . : r4.sn-9gv7lnez.gvt1.com
+    Tipo de registro  . . : 28
+    Período de vida . . . : 387
+    Longitud de datos . . : 16
+    Sección . . . . . . . : respuesta
+    Registro AAAA . . . . : 2607:f8b0:4012:13::9
+
+
+    r6---sn-0opoxu-hutez.gvt1.com
+    ----------------------------------------
+    Nombre de registro  . : r6---sn-0opoxu-hutez.gvt1.com
+    Tipo de registro  . . : 5
+    Período de vida . . . : 277
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : r6.sn-0opoxu-hutez.gvt1.com
+
+
+    Nombre de registro  . : r6.sn-0opoxu-hutez.gvt1.com
+    Tipo de registro  . . : 28
+    Período de vida . . . : 277
+    Longitud de datos . . : 16
+    Sección . . . . . . . : respuesta
+    Registro AAAA . . . . : 2806:1090:cfff:7::11
+
+
+    r6---sn-0opoxu-hutez.gvt1.com
+    ----------------------------------------
+    Nombre de registro  . : r6---sn-0opoxu-hutez.gvt1.com
+    Tipo de registro  . . : 5
+    Período de vida . . . : 277
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : r6.sn-0opoxu-hutez.gvt1.com
+
+
+    Nombre de registro  . : r6.sn-0opoxu-hutez.gvt1.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 277
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 189.247.147.145
+
+
+    github.githubassets.com
+    ----------------------------------------
+    Nombre de registro  . : github.githubassets.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 2708
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 185.199.109.154
+
+
+    Nombre de registro  . : github.githubassets.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 2708
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 185.199.110.154
+
+
+    Nombre de registro  . : github.githubassets.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 2708
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 185.199.111.154
+
+
+    Nombre de registro  . : github.githubassets.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 2708
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 185.199.108.154
